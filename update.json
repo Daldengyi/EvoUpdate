@@ -4,17 +4,12 @@
   "mandatory": false,
   "files": [
     {
-      "url": "https://github.com/사용자명/저장소명/releases/download/v1.2.29/EvoParsingD.exe",
+      "url": "https://raw.githubusercontent.com/Daldengyi/EvoUpdate/refs/heads/main/EvoParsingD.exe",
       "path": "EvoParsingD.exe"
     },
     {
-      "url": "https://example.com/SomeDll.dll",
-      "path": "SomeDll.dll"
-    },
-    {
-      "url": "https://example.com/data.zip",
-      "path": "data.zip",
-      "extract": true
+      "url": "https://raw.githubusercontent.com/Daldengyi/EvoUpdate/refs/heads/main/EvoParsingD.dll",
+      "path": "EvoParsingD.dll"
     }
   ]
 }
